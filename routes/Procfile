@@ -1,1 +1,2 @@
 web:node index.js
+baseUrl: "https://smedia-nodejs.herokuapp.com/api/"
